@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Praylist>
+	<chapter>
+	    <id>1</id>
+		<name>บทสวดทำวัตรเช้า</name>
+       	<description>บทสวดสำหรับทำวัตรเช้า</description>
+       	<audio>01_morning_wat</audio>
+       	<text>01_morning_wat</text>
+		<icon>ic_watmorning</icon>
+	</chapter>
+	<chapter>
+	    <id>2</id>
+		<name>บทแผ่เมตตา</name>
+       	<description>คำแผ่เมตตาหลังทำวัตรเช้า</description>
+       	<audio>03_pae_metta</audio>
+       	<text>03_pae_metta</text>
+		<icon>ic_paemetta</icon>
+	</chapter>
+	<chapter>
+	    <id>3</id>
+		<name>สัพพปัตติทานคาถา</name>
+       	<description>บทกรวดน้ำระลึกพระคุณ</description>
+       	<audio>04_sappatti_tanakata</audio>
+       	<text>04_sappatti_tanakata</text>
+		<icon>ic_waterben</icon>
+	</chapter>
+	<chapter>
+	    <id>4</id>
+		<name>บทสวดทำวัตรเย็น</name>
+       	<description>บทสำหรับทำวัตรเย็น</description>
+       	<audio>02_evening_wat</audio>
+       	<text>02_evening_wat</text>
+		<icon>ic_watevening</icon>
+	</chapter>
+	<chapter>
+	    <id>5</id>
+		<name>บทอุทิศและอธิษฐานบุญ</name>
+       	<description>สำหรับอุทิศส่วนกุศล</description>
+       	<audio>06_utissanatitanakata</audio>
+       	<text>06_utissanatitanakata</text>
+		<icon>ic_utis</icon>
+	</chapter>
+	<chapter>
+	    <id>6</id>
+		<name>บทสวดพาหุง มหากาฯ</name>
+       	<description>บทถวายพรพระพุทธ</description>
+       	<audio>07_pahung_chaiyaparit</audio>
+       	<text>07_pahung_chaiyaparit</text>
+		<icon>ic_pahung</icon>
+	</chapter>
+	<chapter>
+	    <id>7</id>
+		<name>คาถาชินบัญชร</name>
+       	<description>คาถาชินบัญชร สมเด็จพระพุฒาจารย์ (โต พรหมรังสี)</description>
+       	<audio>08_shinna</audio>
+       	<text>08_shinna</text>
+		<icon>ic_shinna</icon>
+	</chapter>
+</Praylist>

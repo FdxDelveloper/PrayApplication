@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">สวดมนต์</string>
+    <string name="action_settings">การตั้งค่า</string>
+    <string name="indexhead">เลือกบทสวดมนต์ที่ท่านต้องการ</string>
+    <string name="aboutstr">หน้าหลัก</string>
+	<string name="txt_credit1">มหาวิทยาลัยรัตนบัณฑิต คณะวิทยาศาสตร์เเละเทคโนโลยี</string>
+	<string name="txt_credit2">เเอพพลิเคชั่นนี้เหมาะสำหรับเครื่องที่มีขนาดหน้าจอ 4.5 ขึ้นไป</string>
+	<string name="txt_credit3">นักพัฒนา นายกฤษย์รัตน์ นายพยุงศักดิ์ นายนราธิป </string>
+	<string name="sendstr">นักพัฒนาเเอพพลิเคชั่น</string>
+	
+</resources>
